@@ -16,6 +16,6 @@ Buka aplikasi WISE Studio untuk tampilkannya seperti berikut :
 
 2. Buka configurasi WISE-4610 pada WISE Studio. Pastikan sebelumnya driver WISE-4610 sudah terinstall. Untuk link download driver [di sini](https://support.advantech.com/support/SearchResult.aspx?keyword=WISE-4610&searchtabs=BIOS,Certificate,Datasheet,Documentation,Driver,Firmware,Manual,Online%20Training,Software%20Utility,Utility,FAQ,Installation,Software%20API,Software%20API%20Manual,3D%20Model,Quick%20Start%20Guide,Reference,eCatalog,Video,Webcast,Whitepaper,SDK,OS&select_tab=Driver). Setelah itu koneksikan WISE studio dengan WISE-4610 berdasarkan driver yang sudah berhasil terinstall tadi. Pada contoh ini, driver berhasil terinstall di COM4. Untuk gambar setelah berhasil ter koneksi seperti berikut:
 - WISE-4610-S672JA Config
-![WISE-4610-S672JA Config](WISE-4610-config.png)
+![WISE-4610-S672JA Config](img/WISE-4610-config.png)
 
 **Semoga Bermanfaat :)**
