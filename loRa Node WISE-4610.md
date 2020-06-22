@@ -22,6 +22,6 @@ Jika sudah berhasil, pada menu konfigurasi tersebut terdapat beberapa menu seper
 3. Update Firmware
 Pertama, download terlebih dulu firmware WISE-4610 pada [link ini](Firmware/WISE-4610_vA113B00_JA_UT.bin). Kemudian buka menu Configuration pada WISE Studio Lalu pilih Firware. Pada configurasi tersebut tersedia tempat untuk memilih file dan upload file. Maka pilih file firmware yang sudah tadi di Download kemudian upload ke WISE-4610. Untuk gambarnya seperti berikut :
 - Update Firmware WISE-4610
-![Update Firmware WISE-4610](update-firmware.png)
+![Update Firmware WISE-4610](img/update-firmware.png)
 Tunggu proses uploading hingga 100 %. Jika sudah maka firmware pada WISE-4610 sudah berhasil ter-update.
 
