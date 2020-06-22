@@ -5,7 +5,9 @@ disableTableOfContents: true
 ---
 Pada percobaa satu ini, saya akan membuat project sederhana bagaimana menggunakan protocol MQTT di WISE-4610 dan WISE-6610. Untuk gambar topology systemnya seperti pada gambar berikut:
 - Contoh project Sederhana LoRa-Wan dengan protocol MQTT
+
 ![Simple project](img/example-project.png)
+
 Dari gambar diatas, WISE-4610 menjadi master modbus dari Slave modbus. Kemudian data dari WISE-4610 akan dipublish ke WISE-6610 yang digunakan sebagai broker. Node-red akan digunakan sebagai MQTT client dimana dari dari WISE-4610 akan ditampilkan di dashboard sederhana. Untuk langkah-langkahnya sebagai berikut:
 - Aktifkan MQTT broker di WISE-6610
 ![Activation MQTT broker](img/broker-aktif.PNG)
