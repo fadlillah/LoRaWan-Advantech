@@ -22,4 +22,4 @@ Ada dua methode untuk mengkoneksikan WISE-4610 ke WISE-6610 yaitu ABP dan OTA. N
 - Pertama, config RF Module WISE-4610 dengan RF operation mode LoRaWan dan Activation Mode ABP.
 ![RF module](img/ABP-METHOD-WISE4610.PNG)
 - Kedua, buka web base WISE-6610 kemudian pilih user modules dan klik LoRaWan Gateway. Sebelumnya, update terlebih dulu firmware LoRawan Gateway. Untuk link download firmware [disini](https://drive.google.com/file/d/1Fh0pt9XMcwbPPYURq_KFbsF7VDgYPbyI/view)
-![user module](user-module)
+![user module](img/user-module.png)
