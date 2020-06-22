@@ -8,6 +8,6 @@ Pada kesempatan ini saya akan berbagi tentang bagaimana cara menggunakan dan con
 
 1. Pertama install terlebih dulu [Wise studio](https://support.advantech.com/support/DownloadSRDetail_New.aspx?SR_ID=1-1MJSJKX&Doc_Source=Download). Install aplikasi tersebut kemudian hubungkan WISE-4610 melalui Port USB seperti gambar berikut :
 - Connect WISE-4610 to Laptop/PC use port USB
-![Connect WISE-4610 to Laptop/PC use port USB](img/WISE4610-conect-USB.png)
+![Connect WISE-4610 to Laptop/PC use port USB](img/WISE4610-conect-USB.PNG)
 
 **Semoga Bermanfaat :)**
