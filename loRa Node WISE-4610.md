@@ -20,7 +20,7 @@ Untuk remote WISE-4610, buka Goto Configuration pada WISE Studio. Pastikan sebel
 ![WISE-4610-S672JA Config](img/WISE-4610-config.png)
 Jika sudah berhasil, pada menu konfigurasi tersebut terdapat beberapa menu seperti Information, Configuration dan I/O Status.
 3. Update Firmware
-Pertama, download terlebih dulu firmware WISE-4610 pada [link ini](Firmware/WISE-4610_vA113B00_JA_UT.bin). Kemudian buka menu Configuration pada WISE Studio Lalu pilih Firware. Pada configurasi tersebut tersedia tempat untuk memilih file dan upload file. Maka pilih file firmware yang sudah tadi di Download kemudian upload ke WISE-4610. Untuk gambarnya seperti berikut :
+Pertama, download terlebih dulu firmware WISE-4610 pada [link ini](https://drive.google.com/file/d/1eT0UYkAYHetvl6DJImOTrFyaPnavDYC4/view?usp=sharing). Kemudian buka menu Configuration pada WISE Studio Lalu pilih Firware. Pada configurasi tersebut tersedia tempat untuk memilih file dan upload file. Maka pilih file firmware yang sudah tadi di Download kemudian upload ke WISE-4610. Untuk gambarnya seperti berikut :
 - Update Firmware WISE-4610
 ![Update Firmware WISE-4610](img/update-firmware.png)
 Tunggu proses uploading hingga 100 %. Jika sudah maka firmware pada WISE-4610 sudah berhasil ter-update.
